@@ -16,9 +16,7 @@ This repository is for reporting issues with the integralcollective.io website
 
 Open an issue to report a problem. The trustee reviews and resolves all 
 website issues directly. This is not a governance space — issues are resolved 
-at trustee discretion without consensus process.
-
-For project contributions, see [integral-devguide](../integral-devguide).
+at trustee discretion without consensus process. See Dev guide.
 
 ---
 
@@ -59,5 +57,5 @@ For now it serves only as a feedback channel for the main site.
 
 *This repository is part of the [Integral project](https://integralcollective.io). 
 For the development guide, white paper, and system repositories, visit the 
-[Integral organization on GitHub](https://github.com/integralcollective).*
+[Integral organization on GitHub](https://github.com/integral-collective).*
 ```
